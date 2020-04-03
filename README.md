@@ -1,1 +1,2 @@
 # otrs-widget
+Description
